@@ -1,0 +1,6 @@
+dist
+node_modules
+*.svg
+dist-icon
+pnpm-lock.yaml
+stats.html
