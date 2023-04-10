@@ -25,5 +25,6 @@
 	"cSpell.words": [],
 	"[vue]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
-	}
+	},
+	"commentTranslate.source": "DarkCWK.youdao-youdao"
 }
