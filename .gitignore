@@ -1,11 +1,4 @@
 node_modules
-dist
-dist-icon
-stats.html
-.eslintcache
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-pnpm-debug.log
-/packages/b-design-icon/test.js
+cache
+es
+lib

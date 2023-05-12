@@ -1,0 +1,28 @@
+{
+  "name": "Bdesign",
+  "version": "1.0.7",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "Bdesign",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "小月",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qddidi/Bdesign"
+  },
+  "dependencies": {
+    "@Bdesign/utils": "^1.0.2"
+  }
+}
