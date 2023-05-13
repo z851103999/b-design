@@ -1,25 +1,19 @@
 {
-  "name": "create-Bdesign",
-  "version": "1.0.4",
-  "description": "",
-  "bin": "index.js",
-  "keywords": [
-    "Bdesign",
-    "vue3组件库"
-  ],
-  "author": "",
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "Add a new component catalog file",
   "type": "module",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/qddidi/Bdesign"
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "new": "node --trace-warnings --loader ts-node/esm ./index.ts"
   },
+  "license": "MIT",
   "dependencies": {
-    "chalk": "^5.2.0",
-    "command-line-args": "^5.2.1",
-    "download-git-repo": "^3.0.2",
-    "ora": "^6.1.2",
-    "prompts": "^2.4.2",
-    "command-line-usage": "^6.1.3"
+    "@juln/change-case": "^0.0.4",
+    "@types/fs-extra": "^9.0.13",
+    "fs-extra": "^10.1.0",
+    "super-ejs": "^1.0.2",
+    "ts-node": "^10.9.1"
   }
 }

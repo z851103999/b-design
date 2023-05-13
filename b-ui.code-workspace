@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{ "name": "root", "path": "." },
+    { "name": "cli", "path": "./packages/cli" },
+    { "name": "theme", "path": "./packages/theme" },
+    { "name": "components", "path": "./packages/components" }
+	]
+}

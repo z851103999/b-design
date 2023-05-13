@@ -1,4 +1,6 @@
 **.d.ts
-/packages/Bdesign
+/packages/easyest
 dist
 node_modules
+/packages/cli/node_modules
+/packages/node_modules
